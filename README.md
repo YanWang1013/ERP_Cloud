@@ -10,8 +10,8 @@ Financial Service
 - Reconciliation
 
 # ToDo
-•	Participated in building Vs1 Cloud, being finished bank reconciliation system using Meteor.js for 6 months.
-•	Defined access control model and API for manage customer&supplier and provide financial service, being strengthen multi-layer security.
-•	Imported a lot of transactions of UK and US Bank using Yodlee, implementing to bring match transaction for reconcile automatically by bank rule from VS1 cloud and reaching at 95% of match correctness.
-•	Parsed many kinds of scanned receipt image using OCR service as 97.7% successfully, Creating cheque and bill automatically.
-•	Pinned commerce search engine to cloud, getting good search result based on Machine Learning and Big Data.
+- Participated in building Vs1 Cloud, being finished bank reconciliation system using Meteor.js for 6 months.
+- Defined access control model and API for manage customer&supplier and provide financial service, being strengthen multi-layer security.
+- Imported a lot of transactions of UK and US Bank using Yodlee, implementing to bring match transaction for reconcile automatically by bank rule from VS1 cloud and reaching at 95% of match correctness.
+- Parsed many kinds of scanned receipt image using OCR service as 97.7% successfully, Creating cheque and bill automatically.
+- Pinned commerce search engine to cloud, getting good search result based on Machine Learning and Big Data.
