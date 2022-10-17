@@ -4,10 +4,8 @@
 MeteorJS, HTML/CSS, ERP, ReactJS, TypeScript
 # Functions
 Financial Service
-- User
-Customer, Employee, Supplier, Lead
-- Bills
-Cheque, Bills, Receipt Claim, Invoice, Task
+- User, Customer, Employee, Supplier, Lead
+- Cheque, Bills, Receipt Claim, Invoice, Task
 - Calendar Appointment
 - Reconciliation
 
