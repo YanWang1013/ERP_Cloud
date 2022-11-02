@@ -18,5 +18,5 @@ Financial Service
 
 - Built bank reconciliation system using Meteor.js.
 - Defined access control model and API for manage customer&supplier and provide financial service, being strengthen multi-layer security.
-- Imported a lot of transactions of bank using Yodlee, implementing to bring match transaction for reconcile automatically by bank rule from VS1 cloud and reaching at 95% of match correctness.
+- Imported a lot of transactions of bank using Yodlee, implementing to bring match transaction for reconcile automatically by bank rule and reaching at 95% of match correctness.
 - Parsed many kinds of scanned receipt image using OCR service as 97.7% successfully, Creating cheque and bill automatically.
