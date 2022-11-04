@@ -1,6 +1,6 @@
 # ERP_Cloud
 
- ERP Cloud brings you everything you will need from a single user start up, with simple accounting, all the way through to a large multi-location Company with full ERP options.
+ This is more than just accounting software. It allows you to create invoices, track your cash flow, accept payments, see what’s selling, plan for the future, and much more. Tracking financials accurately is essential for any business. This ERP saves you time and money by connecting your business tools and making it easy to track everything you need to make important business decisions.
  
 # Keywords
 
