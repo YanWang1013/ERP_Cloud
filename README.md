@@ -20,3 +20,7 @@ Financial Service
 - Defined access control model and API for manage customer&supplier and provide financial service, being strengthen multi-layer security.
 - Imported a lot of transactions of bank using Yodlee, implementing to bring match transaction for reconcile automatically by bank rule and reaching at 95% of match correctness.
 - Parsed many kinds of scanned receipt image using OCR service as 97.7% successfully, Creating cheque and bill automatically.
+
+![vs1cloud-2](https://user-images.githubusercontent.com/115689891/204217290-cbf785f0-9c74-4c95-881b-66312e2ce360.png)
+![vs1cloud-3](https://user-images.githubusercontent.com/115689891/204217304-7db1425a-ec95-41b9-9b88-708874d1121c.png)
+![vs1cloud-4](https://user-images.githubusercontent.com/115689891/204217322-10bf9fcc-1b2e-4140-a6a8-b8d8957e1b8b.png)
